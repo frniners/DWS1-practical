@@ -1,0 +1,40 @@
+/*------ Document -----*/
+
+body { 
+	font-family: Arial, Verdana, sans-serif;
+	background-color: #797267;
+}
+
+header {
+	background-image: url(../images/header-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-color: #797267;
+	background-size: 960px 210px;	
+}
+
+#div section	{
+	background-image: url(../images/main-content-bg.jpg);
+}
+
+#column1of2 { 
+	float: left; 
+	width: 250px; 
+	margin: 10px;
+}
+
+#column2of2 { 
+	float: left; 
+	width: 450px; 
+	margin: 10px;
+}
+
+.page-flip {  
+	background-image: url (../images/page-flip.gif); 
+}
+
+footer	{
+	background-image: url(../images/footer-bg.jpg);
+	background-position: bottom;
+	display: block;
+}
